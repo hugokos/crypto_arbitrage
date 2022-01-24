@@ -22,10 +22,9 @@ Run this program in jupyter labs and have a folder destination for CSV exports.
 ---
 
 ## Usage
+Jupyter Labs to interact with the software program
 
-Utilize command line interface (CLI) to interact with the software program
-
-!["Command Line Interface (CLI) Example"](https://initialcommit.com/img/initialcommit/how-to-paste-in-git-bash.png)
+!["Jupyter Labs Example"](https://miro.medium.com/max/955/1*mXGu0MeYgnUkyR9ybVlQpg.png)
 
 
 ```
